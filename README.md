@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我是计科1班3121004696 黄嘉俊
 
 <!--
 **SLkHs/SLKHs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
